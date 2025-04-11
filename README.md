@@ -34,4 +34,5 @@ https://dagshub.com/lkhok22/ML-hw1.mlflow/#/experiments/0?searchFilter=&orderByK
 (იმედია სწორადაა ეს ლინკი)
 
 საბოლოოდ საუკეთესო შედეგი მიიღო GradientBoostingRegressor-მა 
+თითოეული მიდგომის შედეგები Mlflow-ზეა
 
